@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sandeep 👋</h1>
 
 <p align="center">
-  <em>I build low-latency options-trading automation — and the cloud infra that keeps it running.</em>
+  <em>Cloud & Platform Engineer building <b>agentic AI systems</b> for infrastructure and finance.</em>
 </p>
 
 <p align="center">
@@ -10,39 +10,39 @@
 
 ---
 
-### 📈 Trading systems
+### 🚀 Featured projects
 
-**[TradeRelay](https://github.com/sandeepkaza/trade-relay)** — a Discord-driven options trading bot that routes analyst alerts to **IBKR / Public.com** in real time.
-
-- ⚡ **Event-driven execution** — parses analyst alerts, fires orders with minimal latency; OCA brackets, adaptive entries, resume-on-connect.
-- 🧠 **Signal pipeline** — multi-source ingest, cross-channel dedup, parser-per-format, whale-tracker signal eval.
-- 🛡️ **Risk & safety** — author-scoped controls, market-hours guards, portal-managed risk knobs with hot-reload + alarms.
-- 📊 **Observability** — execution-latency probes, `/metrics`, structured pipeline logs, Discord-webhook alerting.
-
-> Live SPX options, real money. Reliability is the product.
+| | |
+|---|---|
+| **[🤖 Agentic InfraOps Accelerator](https://github.com/sandeepkaza/infraops)** | Azure infrastructure provisioned and operated by AI agents — describe intent, agents plan & apply. |
+| **[⚡ TerraPortal v2](https://github.com/sandeepkaza/terraportal)** | Full-stack Azure lifecycle portal: provision → update → decommission, all via Terraform with Blob-stored state. |
+| **[📈 Portfolio Research Multi-Agent System](https://github.com/sandeepkaza/AI)** | Investment-research agents (fundamental, macro, quant) collaborating via OpenAI Agents SDK + Yahoo Finance / FRED to produce structured reports. |
+| **[🦙 LlamaRAG](https://github.com/sandeepkaza/LlamaRAG)** | Fully-local, zero-cost RAG — Ollama for LLM + embeddings, LangChain, Streamlit UI. No API keys, no cloud. |
 
 ---
 
-### ☁️ Platform & infra
+### 🛠️ What I work on
 
-The bot runs on infra I provision and operate end-to-end:
-
-- **IaC** — Terraform across Azure & AWS, reproducible and reviewable.
-- **Ops automation** — Python tooling, CI deploy-on-push, VM cron alarms.
-- **Self-hosted** — Grafana/Prometheus observability, WireGuard networking, homelab.
+- **🤖 Agentic & AI systems** — multi-agent workflows, local RAG, LLM tooling for infra and financial research.
+- **☁️ Cloud platform** — Azure & AWS provisioned with Terraform; lifecycle automation, naming/governance tooling.
+- **📈 Quant & trading automation** — event-driven options execution and research pipelines.
+- **🔧 Ops & security** — PowerShell/Bash automation, container VirusTotal scanning, WireGuard, self-hosted homelab.
 
 ---
 
 ### 🧰 Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![IBKR API](https://img.shields.io/badge/IBKR_API-D81222?style=flat-square&logo=interactivebrokers&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
@@ -56,6 +56,5 @@ The bot runs on infra I provision and operate end-to-end:
 ---
 
 <p align="center">
-  <a href="https://github.com/sandeepkaza/trade-relay">📈 TradeRelay</a> ·
-  <a href="https://github.com/sandeepkaza?tab=repositories">📦 All repos</a>
+  <a href="https://github.com/sandeepkaza?tab=repositories">📦 Browse all repositories</a>
 </p>
